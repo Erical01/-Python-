@@ -1,2 +1,2 @@
 # graduation_project
-rytesuy5
+基于Python的连连看游戏开发
