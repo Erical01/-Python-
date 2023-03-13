@@ -1,4 +1,4 @@
-# graduation_project
+# Development of Lianliankan game based on Python
 基于Python的连连看游戏开发
 [1]王文举.C#语言开发连连看游戏[J].电脑编程技巧与维护,2013(17):76-80.DOI:10.16184/j.cnki.comprg.2013.17.005.
 [1]阳晓霞,谭卫.基于HTML5技术的游戏开发与实现[J].信息与电脑(理论版),2019(09):69-71.
